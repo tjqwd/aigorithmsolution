@@ -4,7 +4,7 @@ class ListNode {
               ListNode next;
               ListNode(int x) { val = x; }
           }
-//顺序合并2个链表
+/*顺序合并2个链表*/
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         // 虚拟头结点
